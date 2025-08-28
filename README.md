@@ -21,7 +21,7 @@ IP: [끝났으면 그냥 엔터]
 ```
 
 ## 결과 확인
-- 조사한 ip 맨 끝자리로 파일이 저장됩니다. (scanport 디렉터리 내부에)
+
 ```
 ┌──(root㉿kali)-[/home/kali/Desktop]
 └─# ./tcpview.sh scanport/121_tcpdetailed.txt                                                
